@@ -1,4 +1,6 @@
 class Book 
+  attr_acc
+  
   def initialize(title)
     @title = title
   end
