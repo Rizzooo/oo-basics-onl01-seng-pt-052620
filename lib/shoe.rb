@@ -1,2 +1,5 @@
 class Shoe
-  def initialize()
+  def initialize(shoe)
+    @shoe = shoe
+  end
+end
